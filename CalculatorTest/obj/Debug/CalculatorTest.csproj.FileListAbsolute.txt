@@ -1,0 +1,8 @@
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\obj\Debug\CalculatorTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\mgc29\OneDrive\Documents\GL\CalculatorTest\obj\Debug\CalculatorTest.pdb
